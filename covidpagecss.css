@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg{
+background-color:#0967d219;
+height:110vh;
+background-size:cover;
+
+padding:10px;
+}
+
+.bg2{
+background-color:white;
+height:107vh;
+background-size:cover;
+
+}
+.bg3{
+	
+	
+background-size:cover;
+padding:18px;
+
+}
+	
+.head{
+	font-family:Roboto;
+	font-size:25px;
+	font-weight:bold;
+	color:#323f4b
+	
+}
+.button{
+	font-family:Roboto;
+	color:#ffffff;
+	border-radius:10px;
+	background-color:#0967d2;
+	border-width:0px;
+	height:40px;
+	width:140px;
+	font-size:14px;
+	
+	
+	
+}	
+.img{
+	height:100px;
+width:140px;
+
+}
+.bg4{
+	
+background-color:#0967d219;	
+background-size:cover;
+margin:10px;
+border-radius:20px;
+padding:10px;
+
+}
+.head1{
+	font-family:Roboto;
+	
+	font-size:20px;
+	color:#323f4b
+	
+}
+.p1{
+	font-family:Roboto;
+	
+	font-size:13px;
+	color:#707070;
+	
+}
+.img1{
+	height:60px;
+width:60px;
+padding:10px;
+
+
+}
+.margin{
+margin:5px;}
+.head2{
+	font-family:Roboto;
+	padding:11px;
+	font-size:18px;
+	color:#323f4b
+	
+}
+.bg5{
+	height:120px;
+	width:100px;
+	background-color:#3ebd93;
+	border-radius:15px;
+	padding:10px;
+	margin:15px;
+	text-align:center;
+}
+.img2{
+	height:70px;
+width:70px;
+padding:10px;
+
+
+}
+.p2{
+	font-family:Roboto;
+	
+	font-size:13px;
+	color:white;
+	
+}
+.bg6{
+	height:120px;
+	width:100px;
+	background-color:#e668a7;
+	border-radius:15px;
+	padding:10px;
+	margin:15px;
+	text-align:center;
+}
+.bg7{
+	height:120px;
+	width:100px;
+	background-color:#a368fc;
+	border-radius:15px;
+	padding:10px;
+	margin:15px;
+	text-align:center;
+}
+.bg8{
+	background-color:#e12d3919;
+	background-size:cover;
+	border-radius:20px;
+	padding:15px;
+	margin:15px;
+}
+.button1{
+	font-family:Roboto;
+	color:#ffffff;
+	border-radius:10px;
+	background-color:#0967d2;
+	border-width:0px;
+	height:30px;
+	width:110px;
+	font-size:14px;
+		
+}	
